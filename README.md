@@ -1,7 +1,9 @@
 # Chocolate Store
 
 Ruby exercise
+
 Little program for buying chocolate.
+
 
 ## Buy some chocolate
 ```bash
